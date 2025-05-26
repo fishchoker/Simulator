@@ -1,0 +1,9 @@
+﻿  achievement.cpp
+  events.cpp
+  start.cpp
+C:\Users\ajbjs\Desktop\新建文件夹\学校\c++\Simulator\Simulator\start.cpp(60,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  window.cpp
+  杂.cpp
+  正在生成代码...
+C:\Users\ajbjs\Desktop\新建文件夹\学校\c++\Simulator\Simulator\window.cpp(64): warning C4172: 返回局部变量或临时变量的地址: temp
+  Simulator.vcxproj -> C:\Users\ajbjs\Desktop\新建文件夹\学校\c++\Simulator\x64\Debug\Simulator.exe
